@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  RSBot.cpp
+RSBot.cpp(158): warning C4018: '<': signed/unsigned mismatch
+RSBot.cpp(163): warning C4018: '<': signed/unsigned mismatch
+RSBot.cpp(234): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+RSBot.cpp(355): warning C4101: 'lpExitCode': unreferenced local variable
+  Generating code
+  All 221 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RSBot.vcxproj -> C:\Users\Tyler\source\repos\RSBot\Release\RSBot.exe
